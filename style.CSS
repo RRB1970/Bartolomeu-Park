@@ -1,0 +1,60 @@
+body{
+    margin: 0 px;
+    background-color:rgb(139, 168, 158);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    padding:0px;
+    text-align:center;
+
+}
+.topo{
+    width: 100%;
+    background-color:beige;
+    text-align:center;
+    padding:10px auto;
+    border-radius: 8px;
+    font-size:20px;
+    color:#000;
+
+}
+.topo span{
+    font-size:30px ;
+    font-weight: bold;
+    color:red;
+}
+.limita-largura{
+    width:100%;
+    background-color:#000
+    
+}
+
+
+
+.limita-largura img{
+    width:500px;
+    height:400;
+ }
+ .area-apresentacao p{
+     line-height:1.5;
+     color:#ffff;
+     padding-left:200px;
+     padding-right:200px
+  
+    
+ }
+ .p1 , .p3{
+     
+     margin-left:80px;
+     margin-right:80px;
+ }
+ .area-tres-imagens img{
+     width:200px
+ }
+.rodape{
+    font-size:30px;
+    color:white;
+}
+ h2{
+    color:aliceblue
+}
+    
+ 
